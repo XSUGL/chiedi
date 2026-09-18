@@ -1,0 +1,103 @@
+{
+  "_комментарий": [
+    "Эталон для замера поиска. Ответ на каждый вопрос из первой группы",
+    "лежит на названной странице: проверено глазами по собранному корпусу.",
+    "Вторая группа - вопросы, ответа на которые в корпусе нет. Они важнее",
+    "первой: система, которая на них сочиняет, опаснее той, что молчит.",
+    "Короткие вопросы добавлены нарочно: на них сырой вес BM25 занижен, и без них замер не видел бы разницы между мерами уверенности."
+  ],
+  "answerable": [
+    {
+      "q": "Cosa consente di fare la ricevuta telematica rilasciata dal SUAP alla presentazione della SCIA?",
+      "source": "avvio-di-impresa-e-inizio-attivita"
+    },
+    {
+      "q": "Da quando la Comunicazione Unica avvia tutti gli adempimenti in un'unica procedura telematica?",
+      "source": "avvio-di-impresa-e-inizio-attivita"
+    },
+    {
+      "q": "Che cos'è il Fascicolo d'impresa e quale ente lo mette a disposizione?",
+      "source": "fascicolo-impresa"
+    },
+    {
+      "q": "Quali enti alimentano il Fascicolo d'impresa con i loro documenti?",
+      "source": "fascicolo-impresa"
+    },
+    {
+      "q": "Quale articolo del DPR 160/2010 prevede la SCIA contestuale alla Comunicazione Unica?",
+      "source": "scia-contestuali"
+    },
+    {
+      "q": "Quali sono i requisiti e le funzioni dello Sportello Unico per le Attività Produttive?",
+      "source": "requisiti-e-funzioni-del-suap"
+    },
+    {
+      "q": "Entro quanti giorni dalla pubblicazione in Gazzetta Ufficiale i Comuni devono attestare i requisiti?",
+      "source": "le-modalita-di-attuazione"
+    },
+    {
+      "q": "Come avviene l'interscambio tra SUAP e Registro Imprese?",
+      "source": "interscambio-con-registro-imprese"
+    },
+    {
+      "q": "Che cos'è il Sistema informatico degli Sportelli Unici SSU?",
+      "source": "ssu-visione-d-insieme"
+    },
+    {
+      "q": "Cosa prevede la convenzione tra ANCI e Unioncamere?",
+      "source": "convenzione-anci-unioncamere"
+    },
+    {
+      "q": "Come le pubbliche amministrazioni comunicano i controlli alle imprese?",
+      "source": "comunicazione-controlli-pa-alle-imprese"
+    },
+    {
+      "q": "Qual è il contesto normativo di riferimento del SUAP?",
+      "source": "il-contesto-normativo-di-riferimento"
+    },
+    {
+      "q": "I Comuni possono esercitare le funzioni del SUAP in forma associata?",
+      "source": "le-modalita-di-attuazione"
+    },
+    {
+      "q": "Che rapporto c'è tra la Comunicazione Unica e il Registro Imprese?",
+      "source": "registro-imprese-e-comunica"
+    },
+    {
+      "q": "Che cos'è il SUAP?",
+      "source": "requisiti-e-funzioni-del-suap"
+    },
+    {
+      "q": "Cos'è il fascicolo d'impresa?",
+      "source": "fascicolo-impresa"
+    },
+    {
+      "q": "Cos'è ComUnica?",
+      "source": "registro-imprese-e-comunica"
+    },
+    {
+      "q": "Cos'è la SCIA?",
+      "source": "scia-contestuali"
+    }
+  ],
+  "unanswerable": [
+    {
+      "q": "Quanto costa aprire una partita IVA in regime forfettario nel 2026?"
+    },
+    {
+      "q": "Qual è l'aliquota IVA applicata ai ristoranti in Italia?"
+    },
+    {
+      "q": "Come si ottiene l'attestato HACCP per un bar?"
+    },
+    {
+      "q": "Quali sono gli orari dell'ufficio anagrafe di Santa Marinella?"
+    },
+    {
+      "q": "Quanto guadagna in media un idraulico nel Lazio?"
+    },
+    {
+      "q": "Qual è la ricetta della carbonara romana?"
+    }
+  ]
+}

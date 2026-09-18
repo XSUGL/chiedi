@@ -1,0 +1,12 @@
+{
+  "name": "chiedi",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Ответы по официальным документам с обязательной ссылкой на источник, и замер того, насколько поиск их находит",
+  "scripts": {
+    "ingest": "node ingest.mjs",
+    "ask": "node answer.mjs",
+    "eval": "node eval.mjs"
+  }
+}

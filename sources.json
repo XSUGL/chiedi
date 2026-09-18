@@ -1,0 +1,54 @@
+{
+  "_комментарий": [
+    "Откуда собирается корпус. Только официальные сайты ведомств:",
+    "у ответа должна быть ссылка, которую не стыдно показать клиенту.",
+    "keywords решают, какую страницу забрать и по какой ссылке пойти дальше;",
+    "без них обход утащит новости и пресс-релизы."
+  ],
+  "seeds": [
+    "https://www.impresainungiorno.gov.it/web/l-impresa-e-il-comune/avvio-di-impresa-e-inizio-attivita",
+    "https://www.impresainungiorno.gov.it/web/l-impresa-e-il-comune/requisiti-e-funzioni-del-suap",
+    "https://www.impresainungiorno.gov.it/web/l-impresa-e-il-comune/scia-contestuali-alla-comunicazione-unica",
+    "https://www.impresainungiorno.gov.it/web/l-impresa-e-il-comune/registro-imprese-e-comunica",
+    "https://www.impresainungiorno.gov.it/web/l-impresa-e-il-comune/fascicolo-impresa",
+    "https://www.impresainungiorno.gov.it/web/helpdesk/faq",
+    "https://www.impresainungiorno.gov.it/web/l-impresa-e-il-comune/il-contesto-normativo-di-riferimento"
+  ],
+  "keywords": [
+    "impresa",
+    "suap",
+    "partita.?iva",
+    "camera.?di.?commercio",
+    "scia",
+    "commercio",
+    "somministrazione",
+    "artigian",
+    "haccp",
+    "notifica",
+    "sanitaria",
+    "alimentare",
+    "registrazione",
+    "adempiment",
+    "avvio",
+    "impresa-e-il-comune",
+    "helpdesk",
+    "comunica",
+    "fascicolo",
+    "requisiti",
+    "normativ"
+  ],
+  "deny": [
+    "news",
+    "notizie",
+    "comunicat",
+    "rss",
+    "login",
+    "privacy",
+    "cookie",
+    "accessibilit",
+    "mappa.?del.?sito",
+    "ricerca",
+    "search",
+    "\\?p_p_"
+  ]
+}
